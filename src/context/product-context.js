@@ -1,9 +1,11 @@
 import { createContext, useContext, useEffect, useReducer } from "react";
 import { productReducer } from "../reducer/productReducer";
-import { products } from "../db/products";
+import data from "../db/products.json";
 import { ACTION_TYPE } from "../utils/constant";
 
 const ProductContext = createContext();
+
+const { products } = data;
 
 const iniialState = {
   products: [],

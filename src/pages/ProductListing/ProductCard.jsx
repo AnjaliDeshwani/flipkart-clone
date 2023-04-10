@@ -2,7 +2,6 @@ import React from "react";
 
 export const ProductCard = ({ product }) => {
   const { img, brandName, size, price, discountedPrice } = product;
-
   return (
     <div className="flex flex-col w-48 shadow-xl">
       <img src={img} alt="tshirt" />

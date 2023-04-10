@@ -21,5 +21,5 @@ export const useProductHook = () => {
   console.log(sortBy);
   if (sortBy) filteredProducts = sortByPrice(filteredProducts, sortBy);
 
-  return { filteredProducts };
+  return filteredProducts;
 };

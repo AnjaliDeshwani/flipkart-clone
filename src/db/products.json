@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "_id": "1",
+      "img": "https://rukminim1.flixcart.com/image/580/696/l30hmkw0/top/n/0/k/s-00596838-forever-21-original-image89czjyra6vk.jpeg?q=50",
+      "brandName": "FOREVER 21",
+      "size": ["S", "M"],
+      "price": "399",
+      "discountedPrice": "359",
+      "gender": "Women"
+    },
+    {
+      "_id": "2",
+      "img": "https://rukminim1.flixcart.com/image/580/696/krce64w0/top/m/l/7/m-43653402-forever-21-original-imag55zj6vkf4fyk.jpeg?q=50",
+      "brandName": "FOREVER 21",
+      "size": ["S", "M", "L"],
+      "price": "700",
+      "discountedPrice": "600",
+      "gender": "Women"
+    },
+    {
+      "_id": "3",
+      "img": "https://rukminim1.flixcart.com/image/580/696/kzegk280/t-shirt/n/h/l/s-t285hs-as7whdnmt-eyebogler-original-imagbfyge6kae4xg.jpeg?q=50",
+      "brandName": "FOREVER 21",
+      "size": ["S", "M", "L"],
+      "price": "560",
+      "discountedPrice": "420",
+      "gender": "Men"
+    },
+    {
+      "_id": "4",
+      "img": "https://rukminim1.flixcart.com/image/580/696/l1fc0i80/top/i/b/1/l-12-singham-original-imagczmnsgxqyu52.jpeg?q=50",
+      "brandName": "Allen Solly",
+      "size": ["S", "L"],
+      "price": "685",
+      "discountedPrice": "550",
+      "gender": "Women"
+    },
+    {
+      "_id": "5",
+      "img": "https://rukminim1.flixcart.com/image/580/696/kx9as280/top/f/2/p/m-klb-girls-shoppie-original-imag9r9gsfvxwsny.jpeg?q=50",
+      " brandName": "Allen Solly",
+      "size": ["S"],
+      "price": "650",
+      "discountedPrice": "500",
+      "gender": "Women"
+    },
+    {
+      "_id": "6",
+      "img": "https://rukminim1.flixcart.com/image/580/696/kzegk280/t-shirt/d/q/d/s-t16-nbwh-sr-eyebogler-original-imagbfyamf8hwxxt.jpeg?q=50",
+      "brandName": "Allen Solly",
+      "size": ["S", "M"],
+      "price": "650",
+      "discountedPrice": "550",
+      "gender": "Men"
+    },
+    {
+      "_id": "7",
+      "img": "https://rukminim1.flixcart.com/image/580/696/l2rwzgw0/top/o/s/w/-original-imagefaxpzuavqqr.jpeg?q=50",
+      "brandName": "MAX",
+      "size": ["M", "L"],
+      "price": "650",
+      "discountedPrice": "450",
+      "gender": "Women"
+    },
+    {
+      "_id": "8",
+      "img": "https://rukminim1.flixcart.com/image/580/696/koad9jk0/top/r/w/z/s-0078-top-dl-fashion-original-imag2rzffnkbgrzz.jpeg?q=50",
+      "brandName": "MAX",
+      "size": ["L"],
+      "price": "600",
+      "discountedPrice": "400",
+      "gender": "Women"
+    },
+    {
+      "_id": "9",
+      "img": "https://rukminim1.flixcart.com/image/580/696/l4vnbm80/t-shirt/i/j/q/m-askporgfj72665-new-allen-solly-original-imagfzk8vjxgurcj.jpeg?q=50",
+      "brandName": "MAX",
+      "size": ["L"],
+      "price": "600",
+      "discountedPrice": "430",
+      "gender": "Men"
+    }
+  ]
+}
